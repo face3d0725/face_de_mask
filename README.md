@@ -17,10 +17,7 @@ https://drive.google.com/drive/folders/1-th-qJQGGgzWQF2qrAGr8njJ9EBWHGIR?usp=sha
 
 # How to Use
 
-* Create BFM related files following the instructions of this project: 
-
-https://github.com/face3d0725/Deep3DFaceReconstruction-Pytorch
-
+* Create BFM related files following the instructions of this [project](https://github.com/face3d0725/Deep3DFaceReconstruction-Pytorch)
 * Download the pre-trained models and put them in the `ckpts` folder. 
 * Run test.py
 
